@@ -3,4 +3,4 @@ kind: Kustomization
 resources:
 - metrics-server-app.yaml
 - ingress-nginx-app.yaml
-- kyverno-app.yaml
+- kyverno-ap.yaml
