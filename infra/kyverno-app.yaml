@@ -11,4 +11,4 @@ spec:
   source:
     chart: metrics-server
     repoURL: https://kyverno.github.io/kyverno/
-    # targetRevision: 3.13.0
+    targetRevision: 3.5.2
