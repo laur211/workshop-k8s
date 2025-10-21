@@ -9,6 +9,6 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    chart: metrics-server
+    chart: kyverno
     repoURL: https://kyverno.github.io/kyverno/
     targetRevision: 3.5.2
